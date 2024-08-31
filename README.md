@@ -23,12 +23,13 @@ pkg install python3
 git clone https://github.com/HunxByts/GhostTrack.giot
 cd GhostTrack
 pip3 install -r requirements.txt
-python3 GhostTR.py
+python3 TR.py
 ```
 
 Display on the menu ```IP Tracker```
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
+<img src="https://github.com/HunxB
+yts/GhostTrack/blob/main/asset/ip.png " />
 
 on the IP Track menu, you can combo with the seeker tool to get the target IP
 <details>
